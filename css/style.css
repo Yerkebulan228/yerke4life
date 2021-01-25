@@ -1,0 +1,24 @@
+h3{
+	color: red;
+	border: 2px solid black;
+	margin: 25px;
+}
+h2{
+	color:blue;
+	border: 2px solid white;
+	margin: 50px;
+}
+p{
+	color:blue;
+	border: 1px solid powderblue;
+}
+
+.third{
+	color:yellow;
+}
+
+li{
+	color:black;
+	border: 2px solid yellow;
+	margin: 25px;
+}
